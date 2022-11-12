@@ -167,7 +167,7 @@ const Checkout = ({ route, navigation }) => {
         <Card style={styles.card}>
           <Card.Title title="Total" />
           <Card.Content>
-            <Paragraph>${total}</Paragraph>
+            <Paragraph>{total}Ft</Paragraph>
           </Card.Content>
           <Card.Actions>
             <Button mode='contained' onPress={handleSubmit((data) => {
