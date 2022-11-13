@@ -3,36 +3,48 @@ import Main from './src/Main';
 
 const storeItems = [
   {
-    "itemName": "Jáde karkötő",
-    "itemPrice": 2500,
-    "itemImage": "https://i.imgur.com/EJOjIMC.jpg",
-    "itemDescription": "Jáde karkötő igazi ásványból, 2500 Ft",
-    "aditionalImages": [
-      "https://i.imgur.com/EJOjIMC.jpg",
-      "https://i.imgur.com/1Z9Z1Zu.jpg",
-      "https://i.imgur.com/1Z9Z1Zu.jpg"
-    ]
-  },
-  {
-    "itemName": "Tigrisszem karkötő",
-    "itemPrice": 2000,
-    "itemImage": "https://i.imgur.com/EJOjIMC.jpg",
-    "itemDescription": "Tigrisszem karkötő igazi ásványból, 2000 Ft",
-    "aditionalImages": [
-      "https://i.imgur.com/EJOjIMC.jpg",
-      "https://i.imgur.com/1Z9Z1Zu.jpg",
-      "https://i.imgur.com/1Z9Z1Zu.jpg"
-    ]
-  },
-  {
-    "itemName": "Kék Műanyag karkötő",
+    "itemName": "Cseresznyekvarc-angyal karácsonyfadísz",
     "itemPrice": 1500,
-    "itemImage": "https://i.imgur.com/EJOjIMC.jpg",
-    "itemDescription": "Kék Műanyag karkötő olcsóbb műanyg gyöngyből, 1500 Ft",
+    "itemImage": "https://i.imgur.com/hFM70XO.jpg",
+    "itemDescription": "A cseresznyekvarc növeli a koncentrációs képességünket, kitűnő választás a tanulás hatékonyabbá tételéhez, ára: 1500 Ft",
     "aditionalImages": [
-      "https://i.imgur.com/EJOjIMC.jpg",
-      "https://i.imgur.com/1Z9Z1Zu.jpg",
-      "https://i.imgur.com/1Z9Z1Zu.jpg"
+      "https://i.imgur.com/PEjcKbo.jpg",
+    ]
+  },
+  {
+    "itemName": "Jáde-angyal karácsonyfadísz",
+    "itemPrice": 1500,
+    "itemImage": "https://i.imgur.com/r5iJJ4i.jpg",
+    "itemDescription": "A jáde több örömmel és életkedvvel ajándékoz meg minket. Növeli a bennünk lévő szeretetet, a harmónia iránti igényünket, ára: 1500 Ft",
+    "aditionalImages": [
+      "https://i.imgur.com/as1DKw7.jpg",
+    ]
+  },
+  {
+    "itemName": "Kék jáde-angyal karácsonyfadísz",
+    "itemPrice": 1500,
+    "itemImage": "https://i.imgur.com/R107yKX.jpg",
+    "itemDescription": "A jáde több örömmel és életkedvvel ajándékoz meg minket. Növeli a bennünk lévő szeretetet, a harmónia iránti igényünket, ára: 1500 Ft",
+    "aditionalImages": [
+      "https://i.imgur.com/yV4du9b.jpg",
+    ]
+  },
+  {
+    "itemName": "Opalit-angyal karácsonyfadísz",
+    "itemPrice": 1500,
+    "itemImage": "https://i.imgur.com/ppvIZDo.jpg",
+    "itemDescription": "Az opalit segíti a művészi kreativitást, fokozza az életkedvet, oldja a gátakat, ára: 1500 Ft",
+    "aditionalImages": [
+      "https://i.imgur.com/yQHgZPd.jpg",
+    ]
+  },
+  {
+    "itemName": "Roppantott hegyikristály-angyal karácsonyfadísz",
+    "itemPrice": 1500,
+    "itemImage": "https://i.imgur.com/2BBZVbd.jpg",
+    "itemDescription": "A hegyikristály jótékonyan hat az összes csakrára és szervre, szinte lehetetlen felsorolni az összes pozitív hatását, mindenhová kell ebből varázslatosan szép kristályból a „házi patikába”, ára: 1500 Ft",
+    "aditionalImages": [
+      "https://i.imgur.com/KNjtB92.jpg",
     ]
   },
 ];

@@ -89,6 +89,7 @@ const MainCart = ({ props, cartItems }) => {
             </Card.Content>
           </Card>
         ))}
+        <Text style={{ marginBottom: 100 }}></Text>
       </ScrollView>
       {empty
         ? <Text></Text>
