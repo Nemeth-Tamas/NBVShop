@@ -18,7 +18,7 @@ const About = () => {
         <Appbar.Content title="About" />
       </Appbar.Header>
       <Card style={styles.card}>
-        <Card.Title title="Know before bying" />
+        <Card.Title title="Know before buying" />
         <Card.Content>
           <Text>
           A webáruházunkban található termékeket bemutató képeket a lehetőségeink szerint a valóságos kinézetüket legjobban visszaadó formában tesszük közzé, de természetesen lehetnek kisebb eltérések.
